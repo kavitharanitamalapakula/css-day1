@@ -1,0 +1,14 @@
+.container-color {
+    background-color: red;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    border-radius: 25px;
+    border: 2px solid black;
+}
+
+.style {
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+}
